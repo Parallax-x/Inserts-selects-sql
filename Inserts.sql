@@ -14,6 +14,9 @@ INSERT INTO track(name, duration, album_id)
 VALUES('Nookie', 289, 5), ('Faint', 162, 1), ('Numb', 188, 1), ('2 войны', 222, 2), ('What’s My Age Again?', 148, 4), ('All the Small Things', 168, 4), ('Они убили Кенни', 224, 3);
 
 INSERT INTO track(name, duration, album_id)
+VALUES('Baader-Meinhof', 124, 6);
+
+INSERT INTO track(name, duration, album_id)
 VALUES('Break Stuff', 167, 5);
 
 INSERT INTO collection(name, year)
